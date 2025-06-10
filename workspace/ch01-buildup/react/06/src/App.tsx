@@ -1,9 +1,9 @@
-import './App.css'
+import './App.css';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import Todo from './pages/Todo';
 
-function App(){
+function App() {
   return (
     <div id="todo">
       <Header />
@@ -13,4 +13,4 @@ function App(){
   );
 }
 
-export default App
+export default App;
